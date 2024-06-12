@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PointsGraph</string>
+    <string name="splash_screen_title">Здравствуйте</string>
+    <string name="main_screen_title">Введите количество точек которое вы хотите получить:</string>
+    <string name="main_screen_edit_text_hint">Введите количество точек</string>
+    <string name="main_screen_button_text">Поехали</string>
+    <string name="error_dialog_title">Ошибка</string>
+    <string name="error_dialog_message">Что-то пошло не так</string>
+    <string name="error_dialog_ok">Ок</string>
+    <string name="graphic_details_switch_label">Плавные линии графика on/off</string>
+    <string name="graphic_details_button_label">Сохранить</string>
+</resources>
